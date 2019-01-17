@@ -1,0 +1,15 @@
+1=Bir cron işi eklemek için aşağıdakilerin tümünü yapmanız gerekir: dakika, saat, dayofmonth, ay, dayofweek ve komut
+2=Zamanlar, aşağıdakilerden biri gibi biçimlendirilmelidir (örn. Saat, boşluksuz):<br>*<br>1<br>1-5<br>0-23/2<br>1,2,3,13,22<br>0-4,8-12
+3=Komut yeni satır karakterleri içeremez
+4=Dakika
+5=Saat
+6=Day of<br>Month
+7=Ay
+8=Day of<br>Week
+9=Komut
+10=Kaydet
+11=Düzenle
+12=Sil
+13=Seç
+14=Kullanıcı
+15=Geçersiz e-posta adresi. DirectAdmin login username also allowed

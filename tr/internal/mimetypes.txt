@@ -1,0 +1,12 @@
+1=Mime türü veya işleyici adı ve tek bir genişletme sağlaması gerekir. örneğin: <b> text / html </b> veya <b> cgi-script </b> ve <b> html </b>
+2=Bir seferde sadece bir uzantı sağlayın. örneğin: <b> jpg </b> ve DEĞİL <b> jpg jpeg jpe </b>
+3=Geçersiz ad veya uzantı
+4=Tutucu
+5=Uzantıları
+6=MimeType
+7=Seç
+8=Seçiliyken
+9=Uzantı Sil
+10=İşleyiciyi Sil
+11=MimeType'ı sil
+12=veya

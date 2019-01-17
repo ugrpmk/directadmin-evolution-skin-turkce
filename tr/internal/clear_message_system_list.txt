@@ -1,0 +1,8 @@
+1=8
+2=-- anything --
+3=Brute-Force Servis günlüğünde saldırı tespit edildi
+4=şu anda kapalı
+5=Yedekleriniz şimdi hazır
+6=Yedekleme sırasında bir hata oluştu
+7=e-postalar tarafından gönderildi
+8=Uyarı: Sistemin yük ortalaması

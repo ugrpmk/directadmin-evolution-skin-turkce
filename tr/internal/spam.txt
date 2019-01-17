@@ -1,0 +1,5 @@
+1=Spamd sisteminizde çalışmıyor.
+2=Nasıl etkinleştirileceğini öğrenmek için
+3=<b>burayı tıklayın</b>
+4=Spam filtresi ayarlanırken hata oluştu
+5=Komut dosyası çıkışı

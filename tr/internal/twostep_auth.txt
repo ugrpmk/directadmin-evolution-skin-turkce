@@ -1,0 +1,31 @@
+1=%s mevcut değil.
+2=Veri okunamıyor %s
+3=Kilitlenemiyor %s
+4=Yazma hatası %s: %s
+5=%s%s, hesapta daha fazla denemeyi önlemek için %s içinde engellendi.
+6=Uyarı: %s has a valid password for %s but failed the Two-Step Authentication code %s times.
+7=The IP %s has provided the correct password for the %s account.%cHowever, after %s attempts, they were not able to provide a valid Two-Step Authentication code, so no access was granted.%cIf this is not your IP, change your password.%s
+8=İki Adımlı Kimlik Doğrulama gizliliği ayarlanmadı.
+9=<b>İki Adımlı Kimlik Doğrulama Kodunuzu girin</b>
+10=Gönder
+11=Kod
+12=%sIP’niz kara listeye alınacak
+13=Geçersiz İki Adımlı Kimlik Doğrulama kodu
+14=Scratch Kodu
+15=Oluşturulma Tarihi
+16=Seç
+17=Sil
+18=Kod Ekle
+19=Yeni Gizlilik Ayarla: <span class=code_edit>%s</span><br>Tüm eski kodlar geçersiz olduğundan QR kodunu tekrar taradığınızdan emin olun.
+20=Doğrula
+21=Kodu telefonunuzun uygulamasından alın veya yedek bir kod kullanın.
+22=Asla
+23=%s Gün(lar)
+24=%s Hafta(lar)
+25=%s Ayla(lar)
+26=Sona Erme
+27=Tanımdaki geçersiz karakterler.  İzin ver %s
+28=Yazdır
+29=Kod geçerlidir ancak farklı bir süre için geçerlidir.<br>Sunucunuzdaki ve telefonunuzdaki saati kontrol edin.<br>Zaman dilimi tutarsızlığı = %d<br>
+30=%s Bu cihaza %d gün güven
+31=Please generate a secret before adding the scratch codes
